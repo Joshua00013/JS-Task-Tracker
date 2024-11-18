@@ -1,0 +1,46 @@
+#submitbtn img{
+    width: 25px;
+    height:25px;
+}
+
+#submitbtn{
+    background-color:rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+#submitbtn:hover{
+    cursor:pointer;
+}
+
+#myTask{
+    height: 25px;
+    border-radius: 10px;
+}
+
+#taskinput{
+    display:flex;
+}
+
+.deleteBtn img{
+    width: 20px;
+    height:20px;
+}
+
+.deleteBtn{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left:auto;
+    padding:5px
+}
+
+.taskItem{
+    padding-left: none;
+    list-style-type: none;
+    display:flex;
+    width: 200px;
+}
+
+.itemName{
+    padding:none
+}
